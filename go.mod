@@ -1,4 +1,4 @@
-module Microservices_first_studies
+module github.com/IdzAnAG1/Microservice_first
 
 go 1.24.4
 
