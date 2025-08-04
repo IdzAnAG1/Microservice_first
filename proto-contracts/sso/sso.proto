@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option go_package = "github.com/IdzAnAG1/Microservice_first/generation/sso";
+option go_package = "IdzAnAG1.sso.v1; ssov1";
 
 service Auth {
   rpc Register(RegisterRequest) returns (RegisterResponse);
